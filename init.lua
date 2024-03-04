@@ -2,6 +2,9 @@
 vim.g.mapleader = " "
 vim.g.maplocalleader = " "
 
+--disable line wrapping
+vim.opt.wrap = false
+
 --  NOTE:[[ Setting options ]]
 -- See `:help vim.opt`
 -- For more options, you can see `:help option-list`
