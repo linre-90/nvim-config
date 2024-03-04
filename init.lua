@@ -166,6 +166,6 @@ require("lazy").setup({
                 })
             end, { desc = '[/] Fuzzily search in current buffer' })
         end
-    }
+    }, 
 })
 
